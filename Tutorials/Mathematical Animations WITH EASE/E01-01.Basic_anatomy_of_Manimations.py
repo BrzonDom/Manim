@@ -15,3 +15,7 @@ class frstExamp(Scene):
         gr_Sqr.next_to(bl_Circ, RIGHT)
 
         self.add(bl_Circ, gr_Sqr)
+
+
+"""     Execution command:
+            manim -pql {file_name}.py {class_name}    """
