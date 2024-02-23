@@ -18,4 +18,5 @@ class frstExamp(Scene):
 
 
 """     Execution command:
-            manim -pql {file_name}.py {class_name}    """
+            manim -pql {file_name}.py {class_name}    
+                manim -pql E01-01.Basic_anatomy_of_Manimations.py frstExamp     """
